@@ -36,6 +36,5 @@ body {
     box-sizing: border-box;
     padding: 1rem 2rem;
     border: 1px solid;
-    color: var(--branco);
     border-radius: 5px;
 }
